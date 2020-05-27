@@ -1,0 +1,64 @@
+# Title: adaway
+# Description: personal usage only
+# Version: 20200527
+# Homepage: https://github.com/GenXGSS/adaway_adghome
+
+#letv adblock reference https://www.znds.com/tv-1147702-1-1.html
+||nielsenccdata.tv:50001
+||nielsenccdata.tv
+||hpplay.cn
+||cibntv.net
+||tv.kuyun.com
+||umeng.com
+||android.bugly.qq.com
+||gateway1.kuyun.com
+||fengkongcloud.com
+||track.plugins.kuyun.com
+||leyingtt.com
+||123.59.235.42
+||103.25.36.196
+||103.252.205.90
+||g3.letv.com
+||g3.letv.cn
+||ui.letv.com
+
+#xiaomi adblock reference https://blog.csdn.net/moshowgame/article/details/79907926
+||stat.pandora.xiaomi.com
+||upgrade.mishop.pandora.xiaomi.com
+||logonext.tv.kuyun.com
+||config.kuyun.com
+||api.io.mi.com
+||mishop.pandora.xiaomi.com
+||dvb.pandora.xiaomi.com
+||api.ad.xiaomi.com
+||de.pandora.xiaomi.com
+||data.mistat.xiaomi.com
+||jellyfish.pandora.xiaomi.com
+||gallery.pandora.xiaomi.com
+||o2o.api.xiaomi.com
+||bss.pandora.xiaomi.com
+||gvod.aiseejapp.atianqi.com
+||ad.mi.com
+||ad.xiaomi.com
+||ad1.xiaomi.com
+||sdkconfig.ad.xiaomi.com
+||staging.ai.api.xiaomi.com
+||b.netcheck.gallery.pandora.xiaomi.com
+||f1.market.xiaomi.com
+||f2.market.xiaomi.com
+||f3.market.xiaomi.com
+||f4.market.xiaomi.com
+||f5.market.xiaomi.com
+||ad.doubleclick.net
+||v.admaster.com.cn
+||f1.market.mi-img.com
+||f2.market.mi-img.com
+||f3.market.mi-img.com
+||f4.market.mi-img.com
+||f5.market.mi-img.com
+||g.dtv.cn.miaozhan.com
+||ad.xiaomi.com
+||ad1.xiaomi.com
+||new.api.ad.xiaomi.com
+||api.ad.xiaomi.com
+||o2o.api.xiaomi.com
